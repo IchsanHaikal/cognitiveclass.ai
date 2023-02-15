@@ -5,4 +5,5 @@ Look at real-life examples of Machine learning and how it affects society in way
 Explore many algorithms and models:
 - Popular algorithms: Classification, Regression, Clustering, and Dimensional Reduction.
 - Popular models: Train/Test Split, Root Mean Squared Error, and Random Forests.
+
 Get ready to do more learning than your machine!
