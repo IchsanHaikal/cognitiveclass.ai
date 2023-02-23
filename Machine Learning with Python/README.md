@@ -4,7 +4,7 @@ This Machine Learning with Python course dives into the basics of machine learni
 
 Look at real-life examples of Machine learning and how it affects society in ways you may not have guessed!
 
-Explore many algorithms and models:
+**Explore many algorithms and models:**
 
 - Popular algorithms: Classification, Regression, Clustering, and Dimensional Reduction.
 - Popular models: Train/Test Split, Root Mean Squared Error, and Random Forests.
